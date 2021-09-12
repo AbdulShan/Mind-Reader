@@ -2,7 +2,7 @@
 
 Steps to run this Program on Android:
 
-1.Download Termux from play store
+1.Download & Install Termux from play store
 2.Open Termux
 3.Type the Following One by One
     apt update && apt upgrade
