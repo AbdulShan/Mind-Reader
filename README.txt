@@ -12,6 +12,3 @@ Steps to run this Program on Android:
     python2 Magic.py
 4.Follow the steps and the Program will read your Mind!!
 5.Have fun!!
-<h>
-<a> href="#" class="button">Bitcoin address </a>
-<h/>
