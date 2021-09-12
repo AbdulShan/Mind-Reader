@@ -1,4 +1,5 @@
 import random
+print("\n")
 print("******* I'll be guessing the number in your Mind *******")
 print("------------------------------------------------------")
 print("Imagine a number from 1 to 100")
