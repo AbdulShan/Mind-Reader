@@ -28,7 +28,6 @@ print("Substract {}".format(i))
 input()
 print("Substract {}".format(j))
 input()
-import random
 n = random.randint(1,hitta)
 print("Substract {}".format(n))
 input()
